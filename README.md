@@ -104,9 +104,15 @@ These utilities make UI structure understandable to the language model.
 
 ---
 
+## Results:
+GUI Screenshots, Agent trajectories, Recording and Performance Summaries
+Google Drive link: https://drive.google.com/drive/folders/1GThb_uCxbfWGeI7qUAmwiHULsT7fPibo?usp=sharing
+
 ## 🔚 Summary
 
 This agent demonstrates a **modular, multimodal approach** to desktop automation:
 - Vision + accessibility reasoning
 - Memory-efficient context handling
 - Code-based GUI interaction
+
+
