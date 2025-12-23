@@ -110,5 +110,3 @@ This agent demonstrates a **modular, multimodal approach** to desktop automation
 - Vision + accessibility reasoning
 - Memory-efficient context handling
 - Code-based GUI interaction
-
-It serves as a research-oriented baseline for **long-horizon GUI agents** in realistic OS environments.
